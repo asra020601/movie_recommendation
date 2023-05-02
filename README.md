@@ -26,5 +26,5 @@ Clone the repository.
 Install the required packages using pip install -r requirements.txt.
 Run the recommendation.py file.
 Enter a user_id to get movie recommendations for that user.
-Conclusion
+##Conclusion
 In conclusion, this project built a movie recommendation system using cosine similarity that was able to recommend movies to users based on their movie preferences. The project used various data preprocessing and machine learning techniques to build the recommendation system. The system can be improved by using more advanced machine learning models and incorporating more features such as movie genre and director.
